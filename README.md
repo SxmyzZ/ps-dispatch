@@ -45,6 +45,7 @@ Dispatch notifications are sent containing only the alert name, omitting additio
 |en      |English    |
 |de      |German     |
 |nl      |Dutch      |
+|fr      |French      |
 |cs      |Czech      |
 |pt-br      |Brazilian Portuguese      |
 |es      |Spanish      |
